@@ -1,8 +1,3 @@
-#import random
-#Can you please take the below code and make it work with the example code using the below code as the main section
-#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
-
-
 extends Node2D
 
 #signal card_free
